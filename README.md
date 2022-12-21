@@ -1,4 +1,6 @@
-# sentimentSetsR
-A customizable sentiment package for R language
+# sentir
 
-Sentiment analysis using different state of the art lexicons. The package has a simple yet flexible structure that allows to analyse sentiment in text through a "direct match" or "rule-based" method. In addition, it is also capable of analyzing texts using sentiment dictionaries provided as input. 
+A sentiment analyeses R package with extra modifications and functions, based on
+the works analysing German languagues forum.
+
+- WIP...
